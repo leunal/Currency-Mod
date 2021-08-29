@@ -8,7 +8,7 @@ item.modcurrency:banknote_3.name=20 créditos
 item.modcurrency:banknote_4.name=50 créditos
 item.modcurrency:banknote_5.name=100 créditos
 item.modcurrency:wallet.name=Billetera
-item.modcurrency:guidebook.name=Guía de créditos para cabezas cuadradas
+item.modcurrency:guidebook.name=Guía de créditos
 
 //Block names
 tile.modcurrency:blockvending.name=Máquina expendedora
@@ -19,7 +19,7 @@ tile.modcurrency:blockatm.name=Cajero automático
 tile.modcurrency:gui.playerinventory=Inventario
 
 //Buy Sell Gui Stuff
-tile.modcurrency:guivending.profit=Lucro
+tile.modcurrency:guivending.profit=Beneficios
 tile.modcurrency:guivending.funds=Fondos
 tile.modcurrency:guivending.slotsettings=Conf. de ranura
 tile.modcurrency:guivending.cost=Costo:
